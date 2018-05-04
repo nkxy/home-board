@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import List from './List';
+import Title from './Title';
 
 export default class App extends Component {
   constructor(props) {
@@ -26,6 +27,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
+        <Title />
         <form className="App" onSubmit={this.onSubmit}>
           <input value={this.state.term} onChange={this.onChange} />
           <button>Submit</button>
