@@ -1,0 +1,11 @@
+CSS Styling 
+- Center everything
+- Add a font 
+- Add a background color
+- Add an animation for when a button is submitted 
+
+Functionality 
+- Add a remove function/button
+- Add timestamps to each of the different parts that are added 
+- Allow for the editing of the different submitted entries 
+- Add a completed button that crosses it out. 
