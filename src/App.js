@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 import List from './List';
 import Title from './Title';
+import './App.css'
 
 export default class App extends Component {
   constructor(props) {
