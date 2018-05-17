@@ -10,8 +10,8 @@ class Title extends Component {
   render () {
     return (
       <div>
-        <h1> Hello! This is a basic To-Do List. </h1>
-        <p> Simply Put in what you need to do underneath. </p>
+        <h1> Just Do it. </h1>
+        <p> It's not going to finish itself. </p>
       </div>
     )
   }
